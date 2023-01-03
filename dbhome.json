@@ -1,0 +1,266 @@
+{
+  "users1": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$v8U/FwZCgW6yBLeLURNn.uQA7CGgWUVuRP4LcnfvMXkW5VuGewuy6",
+      "id": 1
+    }
+  ],
+  "booksp": [
+    {
+      "title": "Cây Cam Ngọt Của Tôi",
+      "price": 108000,
+      "sale_off": 70200,
+      "description": "Hãy làm quen với Zezé, cậu bé tinh nghịch siêu hạng đồng thời cũng đáng yêu bậc nhất, với ước mơ lớn lên trở thành nhà thơ cổ thắt nơ bướm. Chẳng phải ai cũng công nhận khoản “đáng yêu” kia đâu nhé. Bởi vì, ở cái xóm ngoại ô nghèo ấy, nỗi khắc khổ bủa vây đã che mờ mắt người ta trước trái tim thiện lương cùng trí tưởng tượng tuyệt vời của cậu bé con năm tuổi. Có hề gì đâu bao nhiêu là hắt hủi, đánh mắng, vì Zezé đã có một người bạn đặc biệt để trút nỗi lòng: cây cam ngọt nơi vườn sau. Và cả một người bạn nữa, bằng xương bằng thịt, một ngày kia xuất hiện, cho cậu bé nhạy cảm khôn sớm biết thế nào là trìu mến, thế nào là nỗi đau, và mãi mãi thay đổi cuộc đời cậu. Mở đầu bằng những thanh âm trong sáng và kết thúc lắng lại trong những nốt trầm hoài niệm, Cây cam ngọt của tôi khiến ta nhận ra vẻ đẹp thực sự của cuộc sống đến từ những điều giản dị như bông hoa trắng của cái cây sau nhà, và rằng cuộc đời thật khốn khổ nếu thiếu đi lòng yêu thương và niềm trắc ẩn. Cuốn sách kinh điển này bởi thế không ngừng khiến trái tim người đọc khắp thế giới thổn thức, kể từ khi ra mắt lần đầu năm 1968 tại Brazil.",
+      "short_description": "Đứng thứ 1 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/5e/18/24/2a6154ba08df6ce6161c13f4303fa19e.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-35%",
+      "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+      "daban": "1000+",
+      "id": 1
+    },
+    {
+      "title": "Chú Thuật Hồi Chiến: Tập 1",
+      "price": 37000,
+      "sale_off": 27000,
+      "description": "Hằng ngày cậu thường tới bệnh viện chăm người ông đang ốm liệt giường. Nhưng một ngày nọ, phong ấn của “chú vật” vốn ngủ yên trong trường bị phá giải, quái vật xuất hiện. Để cứu hai anh chị khóa trên đang gặp nguy hiểm, Itadori đã xông vào trường và  Phần chính truyện của CHÚ THUẬT HỒI CHIẾN - Series bom tấn đã bán ra hơn 30 triệu bản tại Nhật năm 2021, bắt đầu…!! Tháng 3 này, JUJUTSU KAISEN - Tác phẩm Bom tấn hứa hẹn công phá nhiều bảng xếp hạng sách ở tất cả các quốc gia chính thức phát hành tại Việt Nam, với tập 1! Đặc biệt hơn, bộ truyện đã được NXB Kim Đồng công bố phát hành 2 ấn bản cùng ra song song cho tới khi kết thúc - Một điều chưa từng có trong tiền lệ. Sách cũng có một bước khởi đầu thành công với hàng vạn bản in được xuất bản để phục vụ bạn đọc! Chắc chắn trong tương lai, CHÚ THUẬT HỒI CHIẾN sẽ còn đạt nhiều thành tích cao hơn nữa!! 100% ấn bản thường của Vol.1 sẽ được tặng kèm 01 Thẻ nhựa bo góc nhân vật, với minh họa màu độc quyền từ tạp chí Shonen Jump!! Bạn hãy nhanh tay sưu tập vì chỉ có bản in đầu mới được tặng kèm món quà này, cùng một chiếc Obi (Đai sách) với thông tin quảng bá cực kì bắt mắt nhé!! Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+      "short_description": "Itadori Yuji là một học sinh cấp Ba sở hữu năng lực thể chất phi thường.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f6/31/92/989371cd53ac84a1baa221c7932b6b6e.png",
+      "categories": [
+        "Sách tiếng việt"
+      ],
+      "giasale": "-25%",
+      "daban": "894",
+      "publisher": "Nhà Xuất Bản Kim Đồng",
+      "id": 2
+    },
+    {
+      "title": "Thiên Tài Bên Trái, Kẻ Điên Bên Phải(Tái Bản)",
+      "price": 179000,
+      "sale_off": 122000,
+      "description": "Hỡi những con người đang oằn mình trong cuộc sống, bạn biết gì về thế giới của mình? Là vô vàn thứ lý thuyết được các bậc vĩ nhân kiểm chứng, là luật lệ, là cả nghìn thứ sự thật bọc trong cái lốt hiển nhiên, hay những triết lý cứng nhắc của cuộc đời? Lại đây, vượt qua thứ nhận thức tẻ nhạt bị đóng kín bằng con mắt trần gian, khai mở toàn bộ suy nghĩ, để dòng máu trong bạn sục sôi trước những điều kỳ vĩ, phá vỡ mọi quy tắc. Thế giới sẽ gọi bạn là kẻ điên, nhưng vậy thì có sao? Ranh giới duy nhất giữa kẻ điên và thiên tài chẳng qua là một sợi chỉ mỏng manh: Thiên tài chứng minh được thế giới của mình, còn kẻ điên chưa kịp làm điều đó. Chọn trở thành một kẻ điên để vẫy vùng giữa nhân gian loạn thế hay khóa hết chúng lại, sống mãi một cuộc đời bình thường khiến bạn cảm thấy hạnh phúc hơn? Thiên tài bên trái, kẻ điên bên phải là cuốn sách dành cho những người điên rồ, những kẻ gây rối, những người chống đối, những mảnh ghép hình tròn trong những ô vuông không vừa vặn… những người nhìn mọi thứ khác biệt, không quan tâm đến quy tắc. Bạn có thể đồng ý, có thể phản đối, có thể vinh danh hay lăng mạ họ, nhưng điều duy nhất bạn không thể làm là phủ nhận sự tồn tại của họ. Đó là những người luôn tạo ra sự thay đổi trong khi hầu hết con người chỉ sống rập khuôn như một cái máy. Đa số đều nghĩ họ thật điên rồ nhưng nếu nhìn ở góc khác, ta lại thấy họ thiên tài. Bởi chỉ những người đủ điên nghĩ rằng họ có thể thay đổi thế giới mới là những người làm được điều đó. Chào mừng đến với thế giới của những kẻ điên. Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+      "short_description": "NẾU MỘT NGÀY ANH THẤY TÔI ĐIÊN, THỰC RA CHÍNH LÀ ANH ĐIÊN ĐẤY!",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/7c/e8/34/4d3636aadb471cad0bf2f45d681e4f23.jpg",
+      "categories": [
+        "Sách anh ngữ",
+        "eq"
+      ],
+      "giasale": "-10%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Thế Giới",
+      "id": 3
+    },
+    {
+      "title": "Tâm Lý Học - Phác Họa Chân Dung Kẻ Phạm Tội",
+      "price": 145000,
+      "sale_off": 104400,
+      "description": "Tội phạm, nhất là những vụ án mạng, luôn là một chủ đề thu hút sự quan tâm của công chúng, khơi gợi sự hiếu kỳ của bất cứ ai. Một khi đã bắt đầu theo dõi vụ án, hẳn bạn không thể không quan tâm tới kết cục, đặc biệt là cách thức và động cơ của kẻ sát nhân, từ những vụ án phạm vi hẹp cho đến những vụ án làm rúng động cả thế giới. Lấy 36 vụ án CÓ THẬT kinh điển nhất trong hồ sơ tội phạm của FBI, “Tâm lý học tội phạm - phác họa chân dung kẻ phạm tội” mang đến cái nhìn toàn cảnh của các chuyên gia về chân dung tâm lý tội phạm. Trả lời cho câu hỏi: Làm thế nào phân tích được tâm lý và hành vi tội phạm, từ đó khôi phục sự thật thông qua các manh mối, từ hiện trường vụ án, thời gian, dấu tích,… để tìm ra kẻ sát nhân thực sự. Đằng sau máu và nước mắt là các câu chuyện rợn tóc gáy về tội ác, góc khuất xã hội và những màn đấu trí đầy gay cấn giữa điều tra viên và kẻ phạm tội. Trong số đó có những con quỷ ăn thịt người; những cô gái xinh đẹp nhưng xảo quyệt; và cả cách trả thù đầy man rợ của các nhà khoa học,… Một số đã sa vào lưới pháp luật ngay khi chúng vừa ra tay, nhưng cũng có những kẻ cứ vậy ngủ yên hơn hai mươi năm. Bằng giọng văn sắc bén, “Tâm lý học tội phạm - phác họa chân dung kẻ phạm tội” hứa hẹn dẫn dắt người đọc đi qua các cung bậc cảm xúc từ tò mò, ngạc nhiên đến sợ hãi, hoang mang tận cùng. Chúng ta sẽ lần tìm về quá khứ để từng bước gỡ những nút thắt chưa được giải, khiến ta đọc tới tận trang cuối cùng. Hy vọng cuốn sách sẽ giúp bạn có cái nhìn sâu sắc, rõ ràng hơn về bộ môn tâm lý học tội phạm và có thể rèn luyện thêm sự tư duy, nhạy bén. Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+      "short_description": "TÂM LÝ HỌC TỘI PHẠM - PHÁC HỌA CHÂN DUNG KẺ PHẠM TỘI",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e4/a3/52/4845a31ebb7c0b75766ef9272506f236.jpg",
+      "categories": [
+        "Văn Phòng Phẩm",
+        "Máy tính bỏ túi"
+      ],
+      "giasale": "-30%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Thanh Niên",
+      "id": 4
+    },
+    {
+      "title": "Semantic Error - Lỗi Logic (Tập 1)",
+      "price": 259000,
+      "sale_off": 186480,
+      "description": "Trong một bài thuyết trình nhóm của một môn siêu phụ, bởi vì tất cả các thành viên đều không làm gì mà đẩy hết việc cho một mình cậu, Sang Woo đã gạch toàn bộ tên mọi người ra khỏi bài tập nhóm, trong đó có cả Jang Jae Young - thanh niên sinh viên năm cuối chỉ cần cố nốt 2 cái tín chỉ của môn này nữa thôi là đủ điều kiện tốt nghiệp. Tình cờ gặp lại nhau trong một project về game, Jae Young nhận ra ngay Sang Woo, vì có một lần anh lang thang đi phỏng vấn dưới sân trường thì nhìn thấy ngay một cái gáy trắng nõn nên đã ào đến bắt chuyện. Nhưng buồn thay, dù cho Jae Young có đẹp trai, có xuất sắc, có nhận được giải thưởng quốc tế, thì Sang Woo vẫn chẳng thể nhận ra anh, vẫn gọi nhầm tên anh thành Young Jae, và thậm chí còn chẳng thèm gọi là anh” Sang Woo ngước lên, nhìn chằm chằm vào kết tinh của tất cả những điều vô lý đang đứng trước mặt cậu.",
+      "short_description": "Chu Sang Woo là một cậu nhóc sinh viên năm nhất ngành lập trình máy tính, được mệnh danh là robot biết nói tiếng người của Khoa lập trình vì tính tình cứng nhắc của mình.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/73/3b/e2/318b85556d5ff260b7074f1a570992c4.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-10%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Hà Nội",
+      "id": 5
+    },
+    {
+      "title": "HÀNH TRÌNH CỦA NGƯỜI BÁN HÀNG VĨ ĐẠI - Nguyễn Anh Dũng",
+      "price": 99000,
+      "sale_off": 67000,
+      "description": "Tại sao lại là người bán hàng vĩ đại? Bởi vì thứ mặt hàng chàng thanh niên ấy bán không chỉ là những thứ vật chất có thể cầm nắm và định giá dễ dàng, mà đó là công cuộc “bán mình” - bán giá trị của chính mình. Đó là một câu chuyện với ngôn ngữ giản dị, những cuộc đối thoại chân thật với những thông điệp gần gũi, dễ tiếp nhận và dễ vận dụng. Đọc xong trang cuối cùng của cuốn sách, tôi đã có thể mỉm cười và hài lòng với những thông điệp mà mình nhận được từ tác giả cuốn sách - anh Nguyễn Anh Dũng cũng là người Sáng lập Sbooks.",
+      "short_description": "“Đứng thứ 1 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/63/7b/0f/2542ebda714f146bc4e9415773ede7bf.jpg.webp",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-10%",
+      "daban": "125",
+      "publisher": "Nhà Xuất Bản Thế Giới",
+      "id": 6
+    },
+    {
+      "title": "Những Tù Nhân Của Địa Lý",
+      "price": 210000,
+      "sale_off": 136500,
+      "description": "“Khi chúng ta đang vươn tới những vì sao, chính bởi những thách thức đặt ra phía trước mà chúng ta có lẽ sẽ phải chung tay để ứng phó: du hành vào vũ trụ không phải với tư cách người Nga, người Trung Quốc hay người Mỹ, mà là những đại diện của nhân loại. Nhưng cho đến nay, mặc dù đã thoát khỏi sự kìm hãm của trọng lực, chúng ta vẫn đang bị giam giữ trong tâm trí của chính mình, bị giới hạn bởi sự nghi ngờ của mình về kẻ khác, và do đó bởi cuộc cạnh tranh chính yếu về tài nguyên. Phía trước chúng ta còn cả một chặng đường dài.” Người Nga vẫn sẽ lo âu dõi mắt về phía tây, nơi có dải đất vẫn còn là bình nguyên, dễ bị xâm nhập; Ấn Độ và Trung Quốc vẫn sẽ bị cách ngăn bởi dãy Himalaya sừng sững, và địa lý sẽ xác định bản chất của những cuộc xung đột giữa hai nước trong tương lai, bất chấp sự phát triển của công nghệ và quân sự; “Đại gia đình châu Âu” đói khát năng lượng, bị phụ thuộc vào những đường ống dẫn dầu từ Nga, và do đó họ không thực sự có nhiều lựa chọn trên bàn đàm phán; sự suy yếu của Hoa Kỳ trong vị thế một siêu cường số một dường như đã bị thổi phồng quá mức, nếu xét tới những lợi thế địa lý mà nước này đã dày công gây dựng…",
+      "short_description": "Đứng thứ 1 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/8d/96/9e/c0c1f23db756d50b1944dff9c3988753.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-10%",
+      "daban": "23",
+      "publisher": "Nhà Xuất Bản Hội Nhà Văn",
+      "id": 7
+    },
+    {
+      "title": "Nhà Giả Kim (Tái Bản 2020)",
+      "price": 79000,
+      "sale_off": 51350,
+      "description": "Tiểu thuyết Nhà giả kim của Paulo Coelho như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Nhưng, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, Nhà giả kim đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc. “Nhưng nhà luyện kim đan không quan tâm mấy đến những điều ấy. Ông đã từng thấy nhiều người đến rồi đi, trong khi ốc đảo và sa mạc vẫn là ốc đảo và sa mạc. Ông đã thấy vua chúa và kẻ ăn xin đi qua biển cát này, cái biển cát thường xuyên thay hình đổi dạng vì gió thổi nhưng vẫn mãi mãi là biển cát mà ông đã biết từ thuở nhỏ. Tuy vậy, tự đáy lòng mình, ông không thể không cảm thấy vui trước hạnh phúc của mỗi người lữ khách, sau bao ngày chỉ có cát vàng với trời xanh nay được thấy chà là xanh tươi hiện ra trước mắt. Có thể Thượng đế tạo ra sa mạc chỉ để cho con người biết quý trọng cây chà là, ông nghĩ.”",
+      "short_description": "Đứng thứ 1 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/45/3b/fc/aa81d0a534b45706ae1eee1e344e80d9.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],"giasale": "-28%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Hà Nội",
+      "id": 8
+    },
+    {
+      "title": "Thiền Sư Và Em Bé 5 Tuổi",
+      "price": 120000,
+      "sale_off": 72000,
+      "description": "Ai cũng có một thời gian khó khăn khi còn thơ ấu và nhiều người đã trải qua những chấn động tâm lý, những tổn thương lớn mà vết thương còn lưu lại đến bây giờ. Để tự bảo vệ và phòng hộ trước những khổ đau trong tương lai, chúng ta thường cố quên đi thời gian đau lòng đó. Mỗi khi tiếp xúc với những kinh nghiệm khổ đau ấy, chúng ta nghĩ rằng chúng ta sẽ không chịu đựng nổi, sẽ không có khả năng xử lý nên chúng ta nén chặt những cảm xúc và ký ức của mình vào đáy sâu vô thức. Đó có thể là do đã từ lâu chúng ta không đủ can đảm để đối diện với em bé đó. Cho dù chúng ta bỏ mặc em bé nhưng không có nghĩa là em bé không có ở đó. Cái em bé tổn thương luôn có mặt trong ta và đang cố gắng lôi kéo sự chú ý của ta. Chúng ta muốn chấm dứt những nỗi đau khổ của mình bằng cách nhốt em bé vào một nơi sâu kín trong lòng và cho nó ở đó càng lâu càng tốt. Tuy nhiên trốn tránh không thể chấm dứt được nỗi đau khổ, trái lại chỉ kéo dài nó lâu hơn mà thôi.",
+      "short_description": "Trong lòng chúng ta ai cũng có một em bé đang đau khổ",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/da/e4/11/b2bbf5b8555148cb5896076ec4d58117.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-25%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Dân Trí",
+      "id": 9
+    },
+    {
+      "title": "Tâm Lý Học Về Tiền",
+      "price": 189000,
+      "sale_off": 113400,
+      "description": "Mọi người nghĩ về nó theo những cách hơi khác nhau một chút. Nó mang lại những bài học có thể được áp dụng tới rất nhiều lĩnh vực trong cuộc sống, như rủi ro, sự tự tin, và hạnh phúc. Rất ít chủ đề cung cấp một lăng kính phóng to đầy quyền lực giúp giải thích vì sao mọi người lại hành xử theo cách họ làm hơn là về tiền bạc. Đó mới là một trong những chương trình hoành tráng nhất trên thế giới. Chúng ta hiếm khi lâm vào hoàn cảnh nợ ngập đầu ư? Biết tiết kiệm để dành cho lúc khốn khó hơn ư? Chuẩn bị sẵn sàng cho việc nghỉ hưu? Có những cái nhìn thiết thực về mối quan hệ giữa tiền và hạnh phúc của chúng ta hơn phải không? Chúng ta đều làm những điều điên rồ với tiền bạc, bởi vì chúng ta đều còn khá mới mẻ với trò chơi này và điều có vẻ điên rồ với bạn lại có khi hợp lý với tôi. Nhưng không ai là điên rồ cả - chúng ta đều đưa ra các quyết định dựa trên những trải nghiệm độc đáo riêng có mang vẻ hợp lý với mình ở bất cứ thời điểm nào.",
+      "short_description": "Tiền bạc có ở khắp mọi nơi, nó ảnh hưởng đến tất cả chúng ta, và khiến phần lớn chúng ta bối rối.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/83/23/b7/14a42ae4f66c9b8b298aaef4b9671442.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-20%",
+      "daban": "259",
+      "publisher": "Nhà Xuất Bản Dân Trí",
+      "id": 10
+    },
+    {
+      "title": "Rèn Luyện Tư Duy Phản Biện",
+      "price": 99000,
+      "sale_off": 65700,
+      "description": "Bạn cần phải đánh giá trung thực những điều trước đây bạn nghĩ là đúng, cũng như quá trình suy nghĩ đã dẫn bạn tới những kết luận đó. Nếu bạn không có những lý lẽ hợp lý, hoặc nếu suy nghĩ của bạn bị ảnh hưởng bởi những kinh nghiệm và cảm xúc, thì lúc đó hãy cân nhắc sử dụng tư duy phản biện! Bạn cần phải nhận ra được rằng con người, kể từ khi sinh ra, rất giỏi việc đưa ra những lý do lý giải cho những suy nghĩ khiếm khuyết của mình. Nếu bạn đang có những kết luận sai lệch này thì có một sự thật là những đức tin của bạn thường mâu thuẫn với nhau và đó thường là kết quả của thiên kiến xác nhận, nhưng nếu bạn biết điều này, thì bạn đã tiến gần hơn tới sự thật rồi! Những người tư duy phản biện cũng biết rằng họ cần thu thập những ý tưởng và đức tin của mọi người. Tư duy phản biện không thể tự nhiên mà có.",
+      "short_description": "Như bạn có thể thấy, chìa khóa để trở thành một người có tư duy phản biện tốt chính là sự tự nhận thức.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/22/cb/a9/524a27dcd45e8a13ae6eecb3dfacba7c.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-30%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Phụ Nữ",
+      "id": 11
+    },
+    {
+      "title": "Ra Bờ Suối Ngắm Hoa Kèn Hồng (Truyện Dài-Nguyễn Nhật Ánh)",
+      "price": 145000,
+      "sale_off": 97436,
+      "description": "Sau Tôi là Bê Tô, Có hai con mèo ngồi bên cửa sổ, Con chó nhỏ mang giỏ hoa hồng, đây là một cuốn sách nữa của nhà văn Nguyễn Nhật Ánh mà nhân vật chính là những bé động vật ngộ nghĩnh, được mô tả sống động dưới ngòi bút tài hoa và giàu tình thương. Câu chuyện chạy qua 8 phần với 64 chương sách nhỏ đầy ắp lòng thương yêu, tính lương thiện, tình thân bạn bè, lòng dũng cảm và bao dung, đánh bạt sự ác độc và cả mọi thói xấu. Khép cuốn sách lại, tự nhiên thấy lòng mình dịu lắng, bình yên đến lạ lùng…",
+      "short_description": "Đứng thứ 1 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/53/84/62/73914cee67b5e279d3aef214031f3222.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-15%",
+      "daban": "165",
+      "publisher": "NXB Trẻ",
+      "id": 12
+    },
+    {
+      "title": "Những Đêm Không Ngủ, Những Ngày Chậm Trôi",
+      "price": 8600,
+      "sale_off": 61920,
+      "description": "“Những đêm không ngủ, những ngày chậm trôi” đại diện cho một hành tinh mới - nơi nỗi đau tinh thần được đưa ra ánh sáng và chữa lành. Cuốn sách là tập hợp những câu chuyện có thật của những số phận khác nhau đang gặp phải các vấn đề về tâm lý: trầm cảm, rối loạn lo âu, rối loạn lưỡng cực… và những người đang học tập và làm việc trong ngành tâm lý học. “Nếu thế giới này còn thứ gì giữ bạn lại, là tình yêu thương hay sự quan tâm trong phút giây nào đó, mong bạn đừng gạt nó đi, bạn đừng bỏ qua sự cố gắng của bản thân dù nhỏ bé nhất!”- Khải Trạch. Hóa ra tận cùng nỗi đau và tận cùng sự chống chọi là một lòng tha thiết sống, lòng tha thiết bám rễ ở cuộc đời này như thế. “Những đêm không ngủ, những ngày chậm trôi” là một khoảng lặng giữa những nốt nhạc vội vã chạy nhảy giữa cuộc sống hiện đại, để những con người dù mang trong mình những tổn thương tâm lý hay không đều cùng ngồi lại bên nhau, soi tỏ tâm hồn nhau bằng ánh sáng của sự thấu cảm, trao gửi cho nhau thương yêu và kết nối để chữa lành.",
+      "short_description": "NHỮNG ĐÊM KHÔNG NGỦ NHỮNG NGÀY CHẬM TRÔI - A CRAZY MIND",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/a8/e9/36/94bb68f3b55bb93a593fec97c087915f.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-30%",
+      "daban": "549",
+      "publisher": "Nhà Xuất Bản Văn Học",
+      "id": 13
+    },
+    {
+      "title": "101 Ý TƯỞNG MARKETING TRONG BÁN HÀNG - Nguyễn Anh Dũng",
+      "price": 98000,
+      "sale_off": 89000,
+      "description": "Thời đại Marketing 4.0 dường như đã làm cho thị trường thay đổi theo chiều hướng mới, lúc này khách hàng mới nắm vai trò quyết định sản phẩm. Các cộng đồng, nhóm, xuất hiện nhiều trên mạng xã hội cũng chi phối tới việc mua hàng. Khách hàng thì vạn biến và khó lường khiến cho việc sử dụng và thay đổi các chiêu thức Marketing trở nên thách thức và đòi hỏi các ý tưởng Marketing phải đánh trúng tâm lý khách hàng hơn bao giờ hết. Bên cạnh đó công nghệ là tài sản chung, khi bất cứ nhãn hàng, cá nhân nào cũng có thể sử dụng công nghệ để phục vụ cho việc bán hàng, tăng doanh số. Con đường chinh phục khách hàng đã hẹp nay càng hẹp hơn vì phải chịu sự cạnh tranh khốc liệt giữa Marketer này mới Marketer khác, doanh nghiệp này với doanh nghiệp khác.",
+      "short_description": "Bạn muốn khởi nghiệp, bạn đang khởi nghiệp hay bạn đang là một Marketer, nhân viên sales?",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/e5/a1/8d/9a6617736279b5b6d58f9d6f2e63b55b.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-30%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Thế Giới",
+      "id": 14
+    },
+    {
+      "title": "Chú Thuật Hồi Chiến Tập 2: Chú Thai Đới Thiên [Tặng Kèm Obi Và Thẻ Bo Góc Nhựa]",
+      "price": 30000,
+      "sale_off": 26800,
+      "description": "Nhóm Itadori, học sinh năm Nhất trường chuyên chú thuật, được cử đi cứu những người đang mắc kẹt bên trong. Nhưng chú thai sau khi hóa thành chú linh đã tấn công cả nhóm. Trước tình thế hiểm nghèo, Itadori đã trao quyền kiểm soát cơ thể cho Sukuna với hi vọng sẽ hạ gục chú linh, !? Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+      "short_description": "Chú thai bất ngờ xuất hiện tại trại cải tạo thanh thiếu niên.",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/1e/fa/d1/9fdf1c67be4fe11fb4c6d01058de1607.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-35%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Kim Đồng",
+      "id": 15
+    },
+    {
+      "title": "Thám tử lừng danh Conan Tập 99",
+      "price": 20000,
+      "sale_off": 18600,
+      "description": "Tìm đến nơi Kazami đang lâm nạn, Toru Amuro tình cờ gặp Conan và nhóm thám tử nhí rồi bước vào vụ án giam cầm ở trang trại chăn nuôi! Tại đây, anh cũng chạm trán Rumi Wakasa - người đã dẫn bọn trẻ tới…!? Gosho AOYAMA: “Chào các bạn, tôi là Aoyama! Chuyện này xảy ra cũng khá lâu rồi… Lần đó, tôi cùng các biên tập viên đến thăm nhà họa sĩ Tetsuya Chiba! Tôi rất muốn được tận mắt nhìn ngắm căn phòng làm việc huyền thoại trên gác mái!! Đó là căn phòng có cấu trúc nhỏ gọn và hiệu quả, cứ ngồi yên trên ghế cũng có thể dễ dàng với tay tới bất cứ thứ gì, không chỉ đồ nghề vẽ manga mà cả tài liệu, thuốc men nữa. Tôi ra về mà trong lòng không khỏi ghen tị với họa sĩ, nhưng nghĩ lại thì quanh ghế ngồi của tôi ở phòng làm việc cũng đâu khác gì. Cảm giác thân thuộc ấy khiến tôi cứ tủm tỉm cười (Ha ha).”",
+      "short_description": "Đứng thứ 2 trong Top 1000 Tiểu Thuyết bán chạy tháng này",
+      "image": "https://salt.tikicdn.com/cache/400x400/ts/product/f0/bd/00/0c66fb626acd661f81799bde24dd9e47.jpg",
+      "categories": [
+        "Sách tiếng việt",
+        "Tâm lý học"
+      ],
+      "giasale": "-30%",
+      "daban": "1000+",
+      "publisher": "Nhà Xuất Bản Kim Đồng",
+      "id": 16
+    }
+
+  ]
+}
